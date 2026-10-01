@@ -1,13 +1,30 @@
-# Hi, I'm Venkatesan D 👋
+<div align="center">
 
-### PHP & CodeIgniter Developer | 5+ Years Experience
+# 👋 Hi, I'm Venkatesan D
 
-I build scalable web applications, ERP systems, REST APIs,
-dashboards and business automation solutions.
+### 💻 PHP & CodeIgniter Developer | 5+ Years Experience
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=PHP+%26+CodeIgniter+Developer;Enterprise+ERP+Developer;REST+API+Developer;MySQL+Database+Developer;AI+Integration+%26+Automation;Building+Scalable+Web+Applications" />
+
+<br>
+
+<a href="https://venkatverse.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-VenkatVerse-8B5CF6?style=for-the-badge" />
+</a>
+&nbsp;
+<a href="https://github.com/Venkatesandk">
+<img src="https://img.shields.io/badge/GitHub-Venkatesandk-181717?style=for-the-badge&logo=github" />
+</a>
+
+</div>
 
 ---
 
 ## 🚀 About Me
+
+I'm a **PHP & CodeIgniter Developer** with 5+ years of experience
+building enterprise applications, ERP systems, dashboards, REST APIs,
+database-driven applications and automation solutions.
 
 - 💻 PHP & CodeIgniter Developer
 - 🗄️ MySQL & Database Development
@@ -15,48 +32,181 @@ dashboards and business automation solutions.
 - 🔌 REST API Development & Integration
 - 📊 Enterprise ERP & Dashboard Development
 - 🤖 AI Integration & Automation
+- 🌐 Next.js & TypeScript
 - 📍 Bangalore, India
-- 🌐 Portfolio: https://venkatverse.vercel.app/
+- 🌐 Portfolio: **[venkatverse.vercel.app](https://venkatverse.vercel.app/)**
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
+
+<div align="center">
 
 ### Backend
-PHP • CodeIgniter 3 • CodeIgniter 4
+
+<img src="https://skillicons.dev/icons?i=php,laravel" />
 
 ### Frontend
-JavaScript • jQuery • AJAX • HTML5 • CSS3 • Bootstrap
+
+<img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,typescript,react,nextjs" />
 
 ### Database
-MySQL • PostgreSQL
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
 
 ### Tools
-Git • GitHub • Postman • XAMPP
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+
+</div>
 
 ---
 
-## 📌 Featured Projects
+# 💼 What I Build
 
-### 🎓 College ERP
-Enterprise academic management system covering
-admission, attendance, timetable, library and student services.
+<table>
+<tr>
+<td width="50%">
+
+### 🎓 Enterprise ERP
+
+Building enterprise academic and business applications covering:
+
+- Admission
+- Attendance
+- Timetable
+- Library
+- Examination
+- Student Services
+- Administration
+
+</td>
+
+<td width="50%">
+
+### 📊 Dashboards & Analytics
+
+Building interactive dashboards with:
+
+- KPIs
+- Charts
+- Reports
+- AJAX Filtering
+- Data Visualization
+- Operational Analytics
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔌 REST APIs
+
+Developing:
+
+- REST APIs
+- Third-party Integrations
+- Data Synchronization
+- Authentication
+- Automation Workflows
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI Applications
+
+Working with:
+
+- AI Assistants
+- AI Integration
+- Knowledge Systems
+- Admission Automation
+- AI-powered Workflows
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 Featured Projects
+
+### 🎓 College ERP System
+
+Enterprise academic management platform covering admission,
+attendance, timetable, library, examinations and student services.
+
+**Tech:** `PHP` `CodeIgniter 3` `MySQL` `JavaScript` `AJAX`
+
+---
 
 ### 🤖 AI Admission Advisor
-AI-powered admission assistance and knowledge-based
-student enquiry system.
 
-### 📊 Analytics Dashboard
-Interactive dashboards with real-time data,
-reports and visual analytics.
+AI-powered admission assistance system for helping students
+with programmes, eligibility, fees and admission workflows.
 
-### 🌐 Personal Portfolio
-Modern developer portfolio built with Next.js and TypeScript.
+**Tech:** `PHP` `CodeIgniter` `Python` `FastAPI` `AI`
 
 ---
 
-## 📫 Connect With Me
+### 📊 Analytics Dashboard
 
-🌐 Portfolio  
-💼 LinkedIn  
-🐙 GitHub
+Interactive dashboard providing KPIs, analytics,
+visual reports and operational insights.
+
+**Tech:** `PHP` `JavaScript` `Chart.js` `AJAX` `MySQL`
+
+---
+
+### 🌐 VenkatVerse
+
+Personal developer portfolio showcasing my skills,
+experience, projects and technical work.
+
+**Tech:** `Next.js` `TypeScript` `React`
+
+---
+
+# 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Venkatesandk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatesandk&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Venkatesandk&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Venkatesandk/Venkatesandk/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+# 🎯 Currently Working On
+
+```text
+🔹 Enterprise ERP Applications
+🔹 AI-powered Web Applications
+🔹 REST API Integrations
+🔹 Database Optimization
+🔹 Analytics & Reporting Systems
+🔹 Modern Portfolio Development
